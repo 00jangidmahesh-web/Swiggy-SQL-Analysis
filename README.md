@@ -7,9 +7,7 @@
 
 ## 🔗 Live Dashboard
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-app-name.streamlit.app)
-
-> *(Replace the link above after deploying to Streamlit Cloud)*
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://swiggy-sql-analysis-h2gpcpa4k67hayrzsfn9dp.streamlit.app/)
 
 ---
 
