@@ -1,17 +1,13 @@
-# 🍔 Swiggy Data Analysis — SQL + Streamlit Dashboard
+# Swiggy Data Analysis – SQL + Streamlit Dashboard
 
-> An end-to-end data analysis project on a Swiggy-inspired food delivery dataset.  
-> Built with **PostgreSQL / MySQL** for analysis and **Streamlit + Plotly** for interactive visualization.
+So I built this little project to analyze food delivery data (inspired by Swiggy).  
+It's a mix of SQL for digging into the numbers and a Streamlit dashboard to actually see what's going on.
 
----
-
-## 🔗 Live Dashboard
-
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://swiggy-sql-analysis-h2gpcpa4k67hayrzsfn9dp.streamlit.app/)
+ **Live demo here:** [Streamlit App](https://swiggy-sql-analysis-h2gpcpa4k67hayrzsfn9dp.streamlit.app/) (go click around)
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 Swiggy-SQL-Analysis/
@@ -26,7 +22,7 @@ Swiggy-SQL-Analysis/
 
 ---
 
-## 🗄️ Database Schema
+## Database Schema
 
 ```
 users ──────────┐
@@ -51,7 +47,7 @@ users ──────────┐
 
 ---
 
-## 📊 Dashboard Sections
+##  Dashboard Sections
 
 | Section | What it shows |
 |---|---|
@@ -65,7 +61,7 @@ users ──────────┐
 
 ---
 
-## 🔍 SQL Queries Covered (`queries.sql`)
+##  SQL Queries Covered (`queries.sql`)
 
 1. Customers who never ordered
 2. Average price per dish
@@ -84,7 +80,7 @@ users ──────────┐
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Layer | Tool |
 |---|---|
@@ -96,7 +92,7 @@ users ──────────┐
 
 ---
 
-## 🚀 Run Locally
+##  Run Locally
 
 ### 1. Clone the repository
 ```bash
@@ -118,7 +114,7 @@ Open your browser at `http://localhost:8501`
 
 ---
 
-## ☁️ Deploy on Streamlit Cloud
+##  Deploy on Streamlit Cloud
 
 1. Push this repo to GitHub (must be **public**)
 2. Go to [share.streamlit.io](https://share.streamlit.io) → **New app**
@@ -130,7 +126,7 @@ Open your browser at `http://localhost:8501`
 
 ---
 
-## 📦 requirements.txt
+##  requirements.txt
 
 ```
 streamlit
@@ -140,7 +136,7 @@ plotly
 
 ---
 
-## 📌 Key Insights from the Dataset
+##  Key Insights from the Dataset
 
 - **KFC** has the highest average delivery time among partners.
 - **Dominos** generates the highest revenue overall.
@@ -150,13 +146,11 @@ plotly
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Mahesh Kumar Jangid**  
-📧 [00jangidmahesh@gmail.com]  
-🔗 [LinkedIn](www.linkedin.com/in/mahesh-kumar-jangid-22b375306)  
-🐙 [GitHub](https://github.com/00jangidmahesh-web)
+ [00jangidmahesh@gmail.com]  
+ [LinkedIn](www.linkedin.com/in/mahesh-kumar-jangid-22b375306)  
+ [GitHub](https://github.com/00jangidmahesh-web)
 
 ---
-
-## ⭐ If you found this useful, please star the repo!
